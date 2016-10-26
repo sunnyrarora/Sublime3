@@ -1,2 +1,5 @@
 # Sublime3
-Sublime3 for CentOS-RHEL
+
+Install Sublime3 for CentOS-RHEL
+
+curl https://github.com/sunnyrarora/Sublime3/blob/master/install_sublime_text.sh | sh
